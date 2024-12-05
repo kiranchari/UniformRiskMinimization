@@ -3,7 +3,7 @@ Official code for the TMLR paper "Uniformly Distributed Feature Representations 
 
 # Domain Generalization 
 Please use this [fork](https://github.com/kiranchari/DomainBed/tree/URM) of the [DomainBed](https://github.com/facebookresearch/DomainBed) library to run URM for domain generalization.
-We have also created a pull request to merge the forked repo to the original DomainBed library. 
+We have also created a pull request to merge the [forked repo](https://github.com/kiranchari/DomainBed/tree/URM) to the original [DomainBed](https://github.com/facebookresearch/DomainBed) library. 
 You may check the original DomainBed library in case it has been merged.
 
 # Citation
