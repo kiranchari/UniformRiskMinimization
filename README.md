@@ -1,5 +1,5 @@
 # Uniform Risk Minimization
-Official code for the TMLR paper "Uniformly Distributed Feature Representations for Fair and Robust Learning"
+Official code for the TMLR paper "Uniformly Distributed Feature Representations for Fair and Robust Learning": https://openreview.net/forum?id=PgLbS5yp8n
 
 # Domain Generalization 
 Please use this [fork](https://github.com/kiranchari/DomainBed/tree/URM) of the [DomainBed](https://github.com/facebookresearch/DomainBed) library to run URM for domain generalization.
